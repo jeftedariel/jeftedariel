@@ -18,8 +18,6 @@
 <a href="https://instagram.com/jeftedariel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeftedariel" height="30" width="40" /></a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/370373584755097601)](https://discord.com/users/370373584755097601)
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://skillicons.dev/icons?i=js,bash,bootstrap,css,html,react,vite,java,go,linux,md,mongodb,mysql,neovim,vscode,nodejs,regex&perline=6)
