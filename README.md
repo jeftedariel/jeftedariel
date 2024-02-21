@@ -2,9 +2,7 @@
   <img src="https://media.giphy.com/media/l41JQAOSwDqTAi54A/giphy.gif?raw=true" alt="Super cool, kinda great movie"/>
 </p>
 
-<h1 align="center">Hi 👋, I'm !Jeft</h1>
 
-<h3 align="center">A guy who likes to code just for a hobby and also plays Minecraft</h3><p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=jeftedariel123&label=Profile%20views&color=0e75b6&style=flat" alt="jeftedariel123" /> </p>
 
 
