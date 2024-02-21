@@ -9,7 +9,7 @@
 
 - 🎈 Lang **ESP/ENG**
 - 🕶️ I’m from **Costa Rica**
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Golang** & **Rust**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
