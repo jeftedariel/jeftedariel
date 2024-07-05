@@ -17,7 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=js,java,python,go,html,css,mongodb,mysql,sqlite,linux,arch,docker,bash,md,regex,neovim,nodejs,flutter,bootstrap,astro,react,cloudflare,vite,&perline=6)
+![](https://skillicons.dev/icons?i=js,java,python,go,html,css,mongodb,mysql,sqlite,linux,arch,git,docker,bash,md,regex,neovim,nodejs,flutter,bootstrap,astro,react,cloudflare,vite,&perline=6)
 
 <hr>
 <h3 align="left">Stats, like a Pokemon:</h3>
