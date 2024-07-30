@@ -11,6 +11,8 @@
 <a href="https://instagram.com/jeftedariel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeftedariel" height="30" width="40" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=jeftedariel123&label=Profile%20views&color=0e75b6&style=flat" alt="jeftedariel123" /> </p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://skillicons.dev/icons?i=js,java,python,go,html,css,mongodb,mysql,sqlite,linux,arch,git,docker,bash,md,regex,neovim,nodejs,flutter,bootstrap,astro,react,cloudflare,vite,&perline=6)
