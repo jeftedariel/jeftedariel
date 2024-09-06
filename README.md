@@ -7,6 +7,9 @@
 - 🎈 Lang **ESP/ENG**
 - 🕶️ I’m from **Costa Rica**
 - 🌱 I’m currently learning **Java** & **Rust**
+- 🎯 Projects
+  - ![Cloudy FileShare](https://cloudyfs.vercel.app)
+  -  ![Estacion Meteorologica](https://github.com/jeftedariel/estacion-meteorologica)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jeftedariel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jeftedariel" height="30" width="40" /></a>
