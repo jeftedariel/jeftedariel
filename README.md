@@ -1,7 +1,7 @@
 <img src="https://komarev.com/ghpvc/?username=jeftedariel123&label=Profile%20views&color=0e75b6&style=flat" alt="jeftedariel123" /> </p>
 
 # 💫 About Me:
-🎈 Lang ESP/ENG<br>🕶️ I’m from Costa Rica<br>🌱 I’m currently learning C# & .NET<br>🎯 Projects 
+🎈 Lang ESP/ENG<br>🕶️ I’m from Costa Rica<br>🎯 Projects 
   -  <a href="https://github.com/jeftedariel/cloudy" target="blank">Cloudy FileShare</a>
   -  <a href="https://github.com/jeftedariel/estacion-meteorologica" target="blank">Estacion Meteorologica</a>
 
