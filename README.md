@@ -15,9 +15,11 @@
 # 📊 GitHub Stats:
 ### like pokemon
 
+
 ![](https://github-readme-stats.vercel.app/api?username=jeftedariel&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jeftedariel&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeftedariel&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeftedariel&hide=html&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=16)
+
 
 ## 🏆 Records
 ![](https://github-profile-trophy.vercel.app/?username=jeftedariel&theme=catppuccin_mocha&no-frame=true&no-bg=false&margin-w=4)
