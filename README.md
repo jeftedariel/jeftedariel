@@ -5,6 +5,7 @@
   -  <a href="https://github.com/jeftedariel/cloudy" target="blank">Cloudy FileShare</a>
   -  <a href="https://github.com/jeftedariel/estacion-meteorologica" target="blank">Estacion Meteorologica</a>
   -  <a href="https://github.com/jeftedariel/Burton" target="blank">Burton Fake Store</a>
+  -  <a href="https://github.com/jeftedariel/Burton" target="blank">API Lugares Costa Rica</a>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeftedariel) 
