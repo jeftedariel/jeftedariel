@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🎈 Lang ESP/ENG<br>🕶️ I’m from Costa Rica<br>🎯 Public Projects 
-  -  <a href="https://github.com/jeftedariel/cloudy" target="blank">Cloudy FileShare</a>
+  -  <a href="https://github.com/jeftedariel/expocenfo-2025-speech2sign" target="blank">Expocenfo 2025 Speech2Sign</a>
   -  <a href="https://github.com/jeftedariel/estacion-meteorologica" target="blank">Estacion Meteorologica</a>
   -  <a href="https://github.com/jeftedariel/Burton" target="blank">Burton Fake Store</a>
   -  <a href="https://github.com/jeftedariel/api-lugares-costarica" target="blank">API Lugares Costa Rica</a>
