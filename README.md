@@ -9,6 +9,7 @@
   -  <a href="https://github.com/jeftedariel/api-lugares-costarica" target="blank">API Lugares Costa Rica</a>
 
 ## 🌐 Socials:
+[![Email](https://img.shields.io/badge/email-%23323330.svg?logo=maildotru&logoColor=white)](mailto:jefte@mendozac.cr) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jeftedariel) 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/jeft%C3%A9-dariel-mendoza-castro-416b7a2ba/) 
 
