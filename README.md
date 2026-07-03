@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=jeftedariel123&label=Profile%20views&color=0e75b6&style=flat" alt="jeftedariel123" /> </p>
 
-# 💫 About Me:
+# 🧩 About Me:
 🎈 Lang Español/English<br>🕶️ From Costa Rica<br>🎯 Public Projects 
   -  <a href="https://travelxm.com" target="blank">TravelXM Website</a>
   -  <a href="https://github.com/jeftedariel/expocenfo-2025-speech2sign" target="blank">Expocenfo 2025 Speech2Sign</a>
